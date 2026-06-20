@@ -46,5 +46,12 @@
 </p>
 
 ---
+### 🚀 About Me
+
+My name is Kayky, I'm 18 years old
+
+- Passionate about technology since childhood, I discovered programming at 16 and decided to pursue a career in Cybersecurity.
+- Currently focused on networking, Linux, Python, and security fundamentals, I enjoy learning through practical projects and continuous improvement.
+- This GitHub is where I document my journey and share the projects I'm building along the way.
 
 > Still early in the journey — building skills and discipline every day.
