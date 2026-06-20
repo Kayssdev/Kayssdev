@@ -15,18 +15,17 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 💻 Languages
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
 </p>
 
----
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=obsidian,discord,vscode,linux,windows,git&theme=dark" />
+</p>
 
 ### 📊 GitHub Stats
 
