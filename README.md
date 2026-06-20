@@ -2,10 +2,11 @@
 <h3 align="center">Aspiring Cybersecurity Professional</h3>
 
 <p align="center">
-  🌱 Currently learning Cybersecurity Fundamentals (roadmap.sh)<br>
+  🌱 Currently learning Cybersecurity Fundamentals through roadmap.sh<br>
   📡 Networking • Wireless Protocols • Python<br>
   📚 Fun fact: Reading Aristotle's Nicomachean Ethics
 </p>
+
 
 <p align="center">
   <a href="https://leetcode.com/kayssdev">
@@ -27,6 +28,16 @@
   <img src="https://skillicons.dev/icons?i=obsidian,discord,vscode,linux,windows,git&theme=dark" />
 </p>
 
+### 📚 Current Learning Path
+
+- Cybersecurity Fundamentals
+- Networking Fundamentals
+- Wireless Networking
+- Linux Fundamentals
+- Python Automation
+> https://roadmap.sh/u/kayssdev
+
+  
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -36,4 +47,4 @@
 
 ---
 
-Still early in the journey — building every day.
+> Still early in the journey — building skills and discipline every day.
