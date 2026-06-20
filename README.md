@@ -4,7 +4,7 @@
 <p align="center">
   🌱 Currently learning Cybersecurity Fundamentals through roadmap.sh<br>
   📡 Networking • Wireless Protocols • Python<br>
-  📚 Fun fact: Reading Aristotle's Nicomachean Ethics
+  📚 Fun fact: I'm into reading and photography
 </p>
 
 
