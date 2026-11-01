@@ -27,20 +27,11 @@
 - Cybersecurity Fundamentals
 - Networking Fundamentals
 - Linux Fundamentals
-
-  
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kayssdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayssdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 ### 🚀 About Me
 
 My name is Kayky, I'm 18 years old
 
 - Passionate about technology since childhood, I discovered programming at 16 and decided to pursue a career in Cybersecurity.
-- Currently focused on networking, Linux, Python, and security fundamentals, I enjoy learning through practical projects and continuous improvement.
+- Currently focused on networking, Linux, Python, and security fundamentals.
 - This GitHub is where I document my journey and share the projects I'm building along the way.
