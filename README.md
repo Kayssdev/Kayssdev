@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kayky Silva</h1>
-<h3 align="center">Aspiring Cybersecurity Professional</h3>
+<h1>Hi 👋, I'm Kayky Silva</h1>
 
-<p align="center">
-  🌱 Currently learning Cybersecurity Fundamentals<br>
-  📡 Networking • Wireless Protocols • Python<br>
+<p>
+  🌱 Currently learning Docker and VMs deploy<br>
+  📡 Networking • Python<br>
 </p>
 
 
@@ -11,15 +10,14 @@
 ---
 
 ### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+<p>
+  A bit of Python
 </p>
 
 ### 🛠️ Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git&theme=dark" />
+<p>
+  Using vim, kiro, Linux(VM), Docker, Traefik, git
 </p>
 
 ### 📚 Current Learning Path
@@ -33,5 +31,8 @@
 My name is Kayky, I'm 18 years old
 
 - Passionate about technology since childhood, I discovered programming at 16 and decided to pursue a career in Cybersecurity.
-- Currently focused on networking, Linux, Python, and security fundamentals.
 - This GitHub is where I document my journey and share the projects I'm building along the way.
+
+---
+
+Contact: Kaykysilva1303@gmail.com
